@@ -5,7 +5,7 @@ export default function Main() {
     <main>
       <h1>Joshua Masangcay</h1>
       <h3>Frontend Developer</h3>
-      <h4>joshua-masangcay.website</h4>
+      <h4>joshua-masangcay.netlify.app</h4>
       <a href="mailto:josh.tanay@gmail.com" className="email-btn" rel="icon">
         <img src={envelopeIcon} alt="an envelope" />
         Email
